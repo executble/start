@@ -100,8 +100,6 @@ h2 {
     color: #999999;
 }
 
-/* Добавьте новое пустое правило сюда */
-
 .site-footer {
     min-width: 550px;
     background-color: #847462;
@@ -117,3 +115,4 @@ h2 {
     vertical-align: middle;
     padding: 0 20px;
 }
+
